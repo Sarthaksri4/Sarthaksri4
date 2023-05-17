@@ -9,7 +9,7 @@
 -  🎓 Pursuing Bachelor's Degree in Computer Science Engineering.  
   
 
-- 🌱 I’m currently learning Node.js  
+- 🌱 I’m currently learning Node Js, Express Js, MongoDb, MySQL. 
   
 
 - 💬 Ask me about React.js  
