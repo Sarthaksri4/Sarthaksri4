@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftierheimseite.de%2Fanimated-gifs-carpenter-creative-cc-28414883&psig=AOvVaw2_uVD-3z_Qvjbapvl26EHJ&ust=1684424809955000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjRysPZ_P4CFQAAAAAdAAAAABAh" align="center" style="width: 100%" />
+<img src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -38,14 +38,14 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Sarthaksri4" target="_blank">
+<a href="https://github.com/Sarthaksri4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-srivastava-0114a8230/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/_sarthak_srivastav._/" target="_blank">
+<a href="https://instagram.com/_sarthak_srivastav._" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sarthak-srivastava-0114a8230" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
