@@ -1,11 +1,7 @@
 <div align="center">
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" align="center" style="width: 100%" />
   
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sarthaksri4&&style=flat-square" align="center" />
-</div>  
-   
+
 
 ### <div align="center">Hi👋,I'm Sarthak Srivastava, a passionate frontend developer from India.</div>  
   
