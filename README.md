@@ -1,4 +1,4 @@
-
+[![MasterHead](https://tenor.com/view/discord-hacking-hack-background-wumpus-gif-26439512)]()
 <h1 align="center">
   Hi
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
@@ -8,6 +8,8 @@
 <h3 align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer!&center=true&width=500&height=50"></a> 
 </h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
 🎓 Pursuing Bachelor's Degree in Computer Science Engineering.<br>🔭 I’m currently working on being a MERN stack develpoer.<br>💬 Ask me about React.js.<br>📫 How to reach me sarthaksri044@gmail.com.
