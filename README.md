@@ -1,4 +1,3 @@
-![TVdmm2k](https://i.imgur.com/O3Bxs16.gif)
 <h1 align="center">
   Hi
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
