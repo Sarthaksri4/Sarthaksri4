@@ -1,3 +1,14 @@
+
+<h1 align="center">
+  Hi
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
+    I'm Sarthak Srivastava
+</h1>
+
+<h3 align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer!&center=true&width=500&height=50"></a> 
+</h3>
+
 # 💫 About Me:
 🎓 Pursuing Bachelor's Degree in Computer Science Engineering.<br>🔭 I’m currently working on being a MERN stack develpoer.<br>💬 Ask me about React.js.<br>📫 How to reach me sarthaksri044@gmail.com.
 
