@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" align="center" style="width: 100%" />
-  
-
-
-### <div align="center">Hi👋,I'm Sarthak Srivastava, a passionate frontend developer from India.</div>  
-  
 # 💫 About Me:
 🎓 Pursuing Bachelor's Degree in Computer Science Engineering.<br>🔭 I’m currently working on being a MERN stack develpoer.<br>💬 Ask me about React.js.<br>📫 How to reach me sarthaksri044@gmail.com.
 
@@ -25,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sarthaksri4&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
