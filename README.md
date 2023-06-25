@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
-    I'm Sarthak Srivastava
+    I'm Sarthak Srivastava.
 </h1>
 
 <h3 align="center">
